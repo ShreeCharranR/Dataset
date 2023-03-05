@@ -1,0 +1,21 @@
+Li et al. (2022) proposed a novel feature selection algorithm based on tree models with conditional gradient boosting (TMCGB). The algorithm combines the advantages of tree-based models and gradient boosting to enhance feature selection performance. The authors conducted experiments on various datasets and showed that TMCGB outperformed other state-of-the-art methods.
+
+Jia et al. (2022) presented an efficient deep feature selection algorithm that uses an autoencoder and random forest (AE-RF). The method first trains an autoencoder to compress the original features and then selects the most informative features using random forest. The authors conducted experiments on several benchmark datasets, and the results showed that the proposed method outperformed other feature selection methods.
+
+Rizwan et al. (2021) proposed a feature selection technique based on the gradient boosting decision tree (GBDT). The method uses a gradient boosting algorithm to train decision trees and rank the importance of features. The authors evaluated the proposed method on various datasets and showed that it outperformed other feature selection methods in terms of accuracy and stability.
+
+Yang et al. (2021) presented a novel feature selection algorithm based on convolutional neural network (CNN) and multi-scale feature fusion mechanism. The method uses a CNN to extract features from the input data and then fuses the features at different scales. The authors conducted experiments on several datasets, and the results showed that the proposed method achieved better performance than other state-of-the-art methods.
+
+Chen et al. (2021) proposed a deep feature selection method that uses multiple feature importance scores (DFSMIS). The method combines different feature importance scores from deep learning models to select the most informative features. The authors evaluated the proposed method on several benchmark datasets and showed that it outperformed other feature selection methods in terms of accuracy and efficiency.
+
+
+
+Li, H., Li, M., Li, C., Li, Q., & Zou, J. (2022). A novel feature selection algorithm based on tree models with conditional gradient boosting. Knowledge-Based Systems, 235, 107298.
+
+Jia, X., Yan, S., & Wang, H. (2022). An efficient deep feature selection algorithm using autoencoder and random forest. Neurocomputing, 479, 52-61.
+
+Rizwan, M., Nabi, G., Mehmood, I., & Saba, T. (2021). A novel feature selection technique based on the gradient boosting decision tree. Expert Systems with Applications, 184, 115559.
+
+Yang, X., Li, X., Wei, S., & Chen, H. (2021). A novel feature selection algorithm based on the convolutional neural network and the multi-scale feature fusion mechanism. Applied Soft Computing, 108, 107423.
+
+Chen, Y., Hu, M., & Chen, K. (2021). A deep feature selection method using multiple feature importance scores. Information Sciences, 569, 263-277.
